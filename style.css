@@ -1,0 +1,21 @@
+* { margin:0; padding:0; }
+
+html { background:#fff; font-family:trebuchet ms, candara, sans-serif; font-size:62.5%; }
+body { font-size:1.5em; }
+
+#wrapper { margin:30px auto 250px auto; width:790px; border:solid 1px #ccc; padding:30px; background:#fff; }
+
+h2, p { margin-bottom:1em; }
+
+#sidebar { width:35%; float:right; }
+
+#content { width:60%; float:left; }
+
+.clear { clear:both; }
+
+/* Item forms */
+.cart { margin:0 20px 20px 0; padding-top:20px; border:dashed 2px #66cc66; float:left; background:#fff; text-align:center; }
+.cart ul { margin:0; list-style:none; padding:0 20px; text-align:left; }
+.cart fieldset { border:0; }
+.cart strong { color:#000066; }
+.cart .button { margin:20px; padding:5px; }

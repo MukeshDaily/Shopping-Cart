@@ -1,0 +1,29 @@
+=============billing=====
+
+emaily
+usernamey
+orgpasswordy
+mobile
+address
+security_ques
+security_ans
+country
+gender
+bd for birthday
+invoice
+
+
+11 fields
+
+invoice=
+planname qty price
+indomain qty price
+gdomain  qty price
+totalprice
+
+====1 table
+databseuser:
+pass       :
+database name: hostpgbghd
+tablename: hostyuser
+
